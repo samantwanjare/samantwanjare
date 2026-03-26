@@ -19,7 +19,7 @@
 Name       : Samant Wanjare
 Role       : DevOps Engineer
 Experience : 3+ Years
-Location   : Nashik, Maharashtra, India
+Location   : Pune, Maharashtra, India
 Focus      : Cloud Infrastructure | CI/CD Automation | Container Orchestration
 Status     : 🟢 Open to New Opportunities
 ```
