@@ -147,7 +147,7 @@ Status     : 🟢 Open to New Opportunities
 |---|---|
 | 💼 LinkedIn | [linkedin.com/in/samantwanjare](https://linkedin.com/in/samantwanjare) |
 | 🐙 GitHub | [github.com/samantwanjare](https://www.linkedin.com/in/samant-wanjare-160a85246) |
-| 📧 Email | samantwanjare@gmail.com |
+| 📧 Email | samantwanjare1998@gmail.com |
 | 📍 Location | Pune, Maharashtra, India |
 
 </div>
